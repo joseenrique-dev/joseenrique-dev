@@ -12,7 +12,7 @@
 
 - 🌱 &nbsp; Learning about micro frontend, improving testing skills.
 
-- ✍️ &nbsp; Pursuing Web Development as hobbies/side hustles.
+<!-- - ✍️ &nbsp; Pursuing Web Development as hobbies/side hustles. -->
 
 
 
