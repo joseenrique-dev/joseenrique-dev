@@ -22,7 +22,7 @@
 
 - 💻 &nbsp; NextJs | ReactJs | React Native | Redux | Angular | JQuery
 
-- 🌐 &nbsp; HTML | CSS/CSS-FlexBox | ANT Design | Bootstrap | MaterialUI 
+- 🌐 &nbsp; HTML | CSS/CSS-FlexBox | ANT Design | Bootstrap | MaterialUI | Tailwind CSS
 
 - 🔧 &nbsp; Git / GitFlow
 
@@ -34,7 +34,7 @@
 
 <h3>🛠 To Learn</h3>
 
-- 🔧 &nbsp; Vue.js | Svelte | Tailwind CSS | Docker🐳 
+- 🔧 &nbsp; Vue.js | Svelte  | Docker🐳 
 
 <hr>
 
