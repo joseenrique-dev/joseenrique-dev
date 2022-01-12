@@ -20,7 +20,7 @@
 
 
 
-- 💻 &nbsp; NextJs | ReactJs | React Native | Redux | Angular | JQuery
+- 💻 &nbsp; NextJs | ReactJs | React Native | Redux | React-Query | Angular | JQuery
 
 - 🌐 &nbsp; HTML | CSS/CSS-FlexBox | ANT Design | Bootstrap | MaterialUI | Tailwind CSS
 
